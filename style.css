@@ -22,7 +22,7 @@ body{
     font-family: 'Press Start 2P', cursive;
     text-align: center;
     font-size: larger;
-}/* TITULO DO CABEÇARIO */
+}/* TITULO DO CABEÇALHO */
 
 .cab{
     float: right;
@@ -35,14 +35,14 @@ body{
     width: 62.10%;
     
     
-}/* CABEÇARIO */
+}/* CABEÇALHO */
 
 .cab a{
     padding: 20px;
     text-decoration: none;
     color: white;
     text-align: center;
-}/* LINKS CABEÇARIO */
+}/* LINKS CABEÇALHO */
 
 
 
